@@ -13,7 +13,7 @@ const MenuBar = () => {
             <div>
                 <button className="border py-2 px-3 rounded-2xl bg-slate-800 text-slate-200 hover:border-slate-800 hover:bg-white hover:text-slate-800">Contact Us</button>
             </div>
-            <div className="absolute bg-white lg:hidden md:hidden flex flex-row justify-evenly items-center bottom-8 rounded-2xl w-[90vw] h-[100px] border border-slate-100">
+            <div className="absolute bg-white lg:hidden md:hidden flex flex-row justify-evenly items-center bottom-20 rounded-2xl w-[90vw] h-[100px] border border-slate-100">
                 <div>
                     <p className="hover:text-bold hover:text-slate-500 cursor-pointer">Home</p>
                 </div>
