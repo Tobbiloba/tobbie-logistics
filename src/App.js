@@ -13,8 +13,8 @@ function App() {
 
       <HomePage />
       <Services />
-      <Marquee />
       <Steps />
+      <Marquee />
       <Footer />
     </div>
   );
