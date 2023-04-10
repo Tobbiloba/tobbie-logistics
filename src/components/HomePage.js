@@ -1,6 +1,6 @@
 const HomePage = () => {
     return (
-        <div className="flex flex-col lg:px-[8vw] lg:pt-32 md:pt-20 pt-32 md:px-[7.5vw] px-[5vw] px-6">
+        <div className="flex flex-col lg:px-[8vw] lg:pt-32 md:pt-28 pt-32 md:px-[5vw] px-[5vw] ">
             <div className="flex lg:flex-row md:flex-row flex-col mb-20">
                 <div className="text-center flex lg:mr-12 md:mr-6">
                     <p className="lg:text-[150px] mb-4 md:text-8xl font-bold text-5xl font-mono">LOGISTICS<br />SOLUTION</p>
