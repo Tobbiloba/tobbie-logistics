@@ -4,7 +4,7 @@ const Projects = () => {
         <div className="w-[100vw] lg:pt-[100px] pt-[70px] pb-[10vh] relative lg:bottom-24 md:bottom-20 flex flex-col rounded-tl-[7.5%]  rounded-tr-[7.5%] lg:px-[8vw]">
             <div className="flex justify-between md:pl-6">
                 <div className='border-2 mb-16 border-white border-b-slate-500 pb-6 '>
-                    <p className='text-black lg:text-6xl md:text-4xl text-2xl  font-bold'>Our Project <span className='text-2xl text-slate-500'>/</span><span className='text-xl font-bold text-slate-500'> Latest Projects</span></p>
+                    <p className='text-black lg:text-6xl md:text-4xl text-3xl  font-bold'>Our Project <span className='text-2xl text-slate-500'>/</span><span className='text-xl font-bold text-slate-500'> Latest Projects</span></p>
 
                 </div>
                 <div>

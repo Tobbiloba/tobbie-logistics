@@ -6,7 +6,7 @@ const Steps = () => {
         <div className="w-[100vw] pb-32 relative rounded-tl-[7.5%] bg-white rounded-tr-[7.5%] px-[8vw] pt-12">
             <div className="flex justify-between">
                 <div className='border-2 mb-16 border-white pt-16 border-b-slate-500 pb-6 '>
-                    <p className='text-slate-800 lg:text-6xl md:text-5xl text-6xl  font-bold'>HOW IT WORKS <span className='text-2xl text-slate-500'>/</span><span className='text-xl font-bold text-slate-500'> East Steps</span></p>
+                    <p className='text-slate-800 lg:text-6xl md:text-5xl text-3xl  font-bold'>HOW IT WORKS <span className='text-2xl text-slate-500'>/</span><span className='text-xl font-bold text-slate-500'> Fast Steps</span></p>
 
                 </div>
             </div>
