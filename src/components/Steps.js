@@ -10,7 +10,7 @@ const Steps = () => {
 
                 </div>
             </div>
-            <div className='flex lg:flex-row flex-col md:flex-wrap justify-evenly mt-8'>
+            <div className='flex lg:flex-row flex-col md:flex-row md:flex-wrap justify-evenly mt-8'>
                 <div className="flex border bg-slate-300 rounded-2xl w-[300px] lg:mb-0 md:mb-0 mb-4 h-[350px] p-4 flex-col justify-between items-start px-4">
                     <div className='border p-5 rounded-full bg-white'>
                         <AirportShuttleIcon style={{ fontSize: '32px' }} />
