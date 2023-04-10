@@ -11,7 +11,7 @@ const Projects = () => {
                     <button className="py-2 px-5 rounded-2xl border border-orange-500 text-orange-500 hover:bg-orange-500 hover:text-white">View All</button>
                 </div>
             </div>
-            <div className='flex flex-row md:flex-wrap md:px-3 md:justify-center justify-between mt-16 border border-black'>
+            <div className='flex flex-row md:flex-wrap md:px-3 md:justify-center justify-between mt-16'>
                 <div className='w-[375px] md:w-[425px] md:mr-3 cursor-pointer overflow-hidden hover:h-[575px] transition ease-in-out delay-150 hover:-translate-y-2 h-[350px]  relative hover:top-8'>
                     {/* <div className='absolute w-[375px] opacity-0 hover:opacity-100 cursor-pointer h-[375px] flex justify-center'>
                         <div className='border-8 h-[65px] border-white bg-orange-500 rounded-xl w-[70px] relative bottom-8 flex justify-center items-center'>

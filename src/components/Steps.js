@@ -10,7 +10,7 @@ const Steps = () => {
 
                 </div>
             </div>
-            <div className='flex flex-row justify-evenly mt-8'>
+            <div className='flex flex-row md:flex-wrap justify-evenly mt-8'>
                 <div className="flex border bg-slate-300 rounded-2xl w-[300px]  h-[350px] p-4 flex-col justify-between items-start px-4">
                     <div className='border p-5 rounded-full bg-white'>
                         <AirportShuttleIcon style={{ fontSize: '32px' }} />
@@ -25,7 +25,7 @@ const Steps = () => {
                         Order <br /> Shipping
                     </p>
                 </div>
-                <div className="flex border rounded-2xl w-[300px] bg-orange-500 h-[350px] p-4 flex-col justify-between items-start px-4">
+                <div className="flex border md:mt-16 rounded-2xl w-[300px] bg-orange-500 h-[350px] p-4 flex-col justify-between items-start px-4">
                     <div className='border p-5 rounded-full bg-white'>
                         <PaymentsIcon style={{ color: 'orange', fontSize: '32px' }} />
                     </div>
