@@ -4,6 +4,7 @@ import HomePage from './components/HomePage'
 import Services from "./components/Services";
 import Marquee from "./components/Marquee";
 import Steps from "./components/Steps";
+import Projects from "./components/Projects";
 function App() {
   return (
     <div className="App">
@@ -13,8 +14,9 @@ function App() {
 
       <HomePage />
       <Services />
-      <Steps />
+      <Projects />
       <Marquee />
+      <Steps />
       <Footer />
     </div>
   );

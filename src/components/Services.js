@@ -9,25 +9,26 @@ const Services = () => {
                 <div className='flex flex-col'>
                     <div className='flex flex-row w-[25vw]  justify-between py-6 border-2 border-black hover:border-b-slate-400 px-6 cursor items-center'>
                         <p className='text-4xl text-white'>Freight Transport</p>
-                        <div className='border p-3 rounded-full border border-white hover:bg-orange-500 hover:p-5'>
+                        <div className='border p-3 rounded-full  border-white hover:bg-orange-500 hover:p-5'>
                             <ArrowOutwardIcon style={{ color: 'white' }} className='cursor-pointer' />
                         </div>
 
                     </div>
                     <div className='flex flex-row w-[25vw] mt-4 justify-between py-6 border-2 border-black hover:border-b-slate-400 px-6 cursor items-center'>
                         <p className='text-4xl text-white'>Cargo Shipment</p>
-                        <div className='border p-3 rounded-full border border-white hover:bg-orange-500 hover:p-5'>
+                        <div className='border p-3 rounded-full  border-white hover:bg-orange-500 hover:p-5'>
                             <ArrowOutwardIcon style={{ color: 'white' }} className='cursor-pointer' />
                         </div>
 
                     </div>
                     <div className='flex flex-row w-[25vw] mt-4 border-2 border-black hover:border-b-slate-400 justify-between py-6 px-6 cursor items-center'>
                         <p className='text-4xl text-white'>Freight Transport</p>
-                        <div className='border p-3 rounded-full border border-white hover:bg-orange-500 hover:p-5'>
+                        <div className='border p-3 rounded-full  border-white hover:bg-orange-500 hover:p-5'>
                             <ArrowOutwardIcon style={{ color: 'white' }} className='cursor-pointer' />
                         </div>
 
                     </div>
+                    <p className='text-white w-[400px] mt-16'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
                 <div>
                     <img src="https://i.pinimg.com/originals/68/14/b2/6814b231fe1726f0a251388d9f97c828.png" />
