@@ -1,7 +1,7 @@
 const MenuBar = () => {
     return (
         <div className="z-20 border w-[100vw] h-[100vh]  lg:h-[65px] md:h-[70px] flex flex-row lg:px-[10vw] md:px-[7.5vw] px-6 justify-between py-4">
-            <div className="">
+            <div className="invisible lg:visible md:visible">
                 <p className="text-2xl font-bold text-slate-800">Tobbie<span className="text-3xl text-slate-500">|</span>Logistics</p>
             </div>
             <div className="lg:flex md:flex hidden flex-row ">
