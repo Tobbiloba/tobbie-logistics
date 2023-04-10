@@ -8,7 +8,7 @@ import Projects from "./components/Projects";
 function App() {
   return (
     <div className="App">
-      <div className="fixed">
+      <div className="fixed z-20">
         <MenuBar />
       </div>
 

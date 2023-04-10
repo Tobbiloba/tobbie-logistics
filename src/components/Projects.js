@@ -1,7 +1,7 @@
 import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 const Projects = () => {
     return (
-        <div className="w-[100vw] lg:pt-[100px] pt-[70px] pb-[10vh] relative bottom-24 flex flex-col rounded-tl-[7.5%] bg-white rounded-tr-[7.5%] lg:px-[8vw]">
+        <div className="w-[100vw] lg:pt-[100px] pt-[70px] pb-[10vh] relative bottom-24 flex flex-col rounded-tl-[7.5%]  rounded-tr-[7.5%] lg:px-[8vw]">
             <div className="flex justify-between md:pl-6">
                 <div className='border-2 mb-16 border-white border-b-slate-500 pb-6 '>
                     <p className='text-black lg:text-6xl md:text-4xl  font-bold'>Our Project <span className='text-2xl text-slate-500'>/</span><span className='text-xl font-bold text-slate-500'> Latest Projects</span></p>
